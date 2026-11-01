@@ -37,6 +37,7 @@ Data collected on [10/11/2026].
 | `data/traders_clean.csv` | Analysis-ready table: one row per trader |
 
 Raw data files: https://drive.google.com/drive/folders/1qBlrM1k48SQcTbSTcElOIv_jracyIzQe?usp=sharing
+Cleaned data files: https://drive.google.com/drive/folders/1wDT1XpYTAMKCWmaXdpMVM4nS-b_bMojz?usp=sharing
 
 ## Key variables
 - `roi`: return on investment (`total_pnl` ÷ `cost_basis`)
