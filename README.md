@@ -267,12 +267,6 @@ Every Phase 3 comment was addressed (full list in Section 11 of the final report
 
 ---
 
-## AI use
-
-We used Claude, an AI assistant made by Anthropic, during this project. **[Edit this to match exactly how the group used AI, consistent with the AI declaration in Section 10 of the final report.]** The research questions and hypotheses are our own; we ran all code and checked every reported number against the notebook output.
-
----
-
 ## References
 
 Barber, Brad M., and Terrance Odean. "Trading Is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors." *The Journal of Finance*, vol. 55, no. 2, 2000, pp. 773–806.
